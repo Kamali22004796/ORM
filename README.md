@@ -42,8 +42,8 @@ class playersAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-[sangavi (1).pdf](https://github.com/Kamali22004796/ORM/files/13364315/sangavi.1.pdf)
 
+![Screenshot 2023-10-27 143920](https://github.com/Kamali22004796/ORM/assets/120567837/dc606b35-07d7-457e-90ca-6687e4a8e362)
 
 
 ## RESULT
